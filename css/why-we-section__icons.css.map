@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../saas/components/why-we-section__icons.scss"
+    ],
+    "names": [],
+    "file": "why-we-section__icons.css"
+}
